@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://cdn.maetipoeu.com.br/wp-content/uploads/2015/11/cor_dos_alimentos-mae_tipo_eu-7.jpg",
+      "name": "tiriri",
+      "price": "200.20",
+      "description": "Muito bom",
+      "available": true,
+      "id": 4
     }
   ]
 }
